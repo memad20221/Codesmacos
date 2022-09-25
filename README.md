@@ -126,6 +126,9 @@ Support CodeEdit's development by [becoming a backer](https://github.com/sponsor
 [@ivanvorobei](https://github.com/ivanvorobei)
 [@albertorestifo](https://github.com/albertorestifo)
 
+## Sponcer
+
+This project is tested with BrowserStack.
 
 
 ## License
